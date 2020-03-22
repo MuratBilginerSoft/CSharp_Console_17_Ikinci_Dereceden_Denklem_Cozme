@@ -1,0 +1,4 @@
+C:\Users\mrt_b\Desktop\Kod S İkinci Dereceden Denklem Cozme\Kod S İkinci Dereceden Denklem Cozme\bin\Debug\Kod S İkinci Dereceden Denklem Cozme.exe
+C:\Users\mrt_b\Desktop\Kod S İkinci Dereceden Denklem Cozme\Kod S İkinci Dereceden Denklem Cozme\bin\Debug\Kod S İkinci Dereceden Denklem Cozme.pdb
+C:\Users\mrt_b\Desktop\Kod S İkinci Dereceden Denklem Cozme\Kod S İkinci Dereceden Denklem Cozme\obj\x86\Debug\Kod S İkinci Dereceden Denklem Cozme.exe
+C:\Users\mrt_b\Desktop\Kod S İkinci Dereceden Denklem Cozme\Kod S İkinci Dereceden Denklem Cozme\obj\x86\Debug\Kod S İkinci Dereceden Denklem Cozme.pdb
